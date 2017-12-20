@@ -5,7 +5,7 @@ Installation:
 
 1: Install CocoaPods if you have not(https://cocoapods.org/).
 
-2: Navigate to the working directory, install all pods by executing pod update in the command line.
+2: Navigate to the working directory, install all pods by executing <pre>pod update</pre> in the command line.
 
 3: Double-click the TaskMate.xcworkspace icon to launch the app.
 
